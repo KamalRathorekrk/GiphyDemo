@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67978371306",
+    "project_id": "possible-enigma-428510-d7",
+    "storage_bucket": "possible-enigma-428510-d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67978371306:android:2128151ffd27443285f793",
+        "android_client_info": {
+          "package_name": "com.example.demo21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbxtQxMQewW4CzROvq7UfolF3G7ik4m5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
